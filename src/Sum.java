@@ -1,4 +1,3 @@
-import static java.lang.Math.pow;
 import java.util.Scanner;
 public class Sum {
     public static void main(String[] args) {
@@ -22,7 +21,6 @@ public class Sum {
         System.out.printf("The sum of all squares between 1 and 100 : %d\n", SquareSum);
 
         /*All powers of 2 from 2^0 up to 2^20.*/
-        int PowerSum = 0;
         System.out.println("All powers of 2 from 2^0 up to 2^20: ");
         for (int k=0;k<=20;k++) {
                 System.out.print(" "+Math.pow(2,k)+" ");
