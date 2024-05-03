@@ -28,23 +28,23 @@ public class InputString {
         //   name.charAt(i)= '_';
         // }
         // d. The number of vowels in the string
-        int vowel=0;
+        int vowel = 0;
         for (int i = 1; i < name.length(); i++) {
             char currentChar = Character.toLowerCase(name.charAt(i));
             if (currentChar == 'a' || currentChar == 'e' || currentChar == 'i' || currentChar == 'o' || currentChar == 'u') {
                 vowel++;
-             }
+            }
         }
-        System.out.println("numbers of vowel :"+vowel);
+        System.out.println("numbers of vowel :" + vowel);
 
         //e.The positions of all vowels in the string.
         System.out.println("The positions of all vowels in the string:");
         for (int i = 0; i < name.length(); i++) {
             char currentChar = Character.toLowerCase(name.charAt(i));
-            if (currentChar == 'a' || currentChar == 'e' || currentChar == 'i' || currentChar == 'o' || currentChar == 'u') {
-                System.out.printf("%d ",i);
+            if (currentChar == 'a' || currentChar == 'e' || currentChar == 'i' || currentChar == 'o' || currentChar == 'u')//if (isVowel(name.charAt(i))) {
+                System.out.printf("%d ", i);
             }
         }
     }
-}
+
 
