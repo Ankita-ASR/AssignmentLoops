@@ -13,12 +13,11 @@ public class DiamondPattern {
                 System.out.printf(" ");
 
             }
-
             for (cl = 1; cl <= k; cl++) {
                 System.out.printf("*");
 
             }
-            if(row<n-1)
+            if(row<n)
             {
                 sp--;
                 k=k+2;
