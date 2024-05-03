@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4f3d300-add2-46ab-9e16-6d34d95dacc2" name="Changes" comment="E6.4">
-      <change afterPath="$PROJECT_DIR$/src/MathWithFloat.java" afterDir="false" />
+    <list default="true" id="b4f3d300-add2-46ab-9e16-6d34d95dacc2" name="Changes" comment="E6.5">
+      <change afterPath="$PROJECT_DIR$/src/DiamondPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.4" />
+        <entry key="$PROJECT_DIR$" value="E6.11" />
       </map>
     </option>
   </component>
@@ -40,13 +40,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2fEPpJZTpeRzAA9Hq7dr13elSwv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.DiamondPattern.executor": "Run",
     "Application.HighestTemperatureMonth.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ReversedString.executor": "Run",
@@ -67,9 +70,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HighestTemperatureMonth">
-    <configuration name="HighestTemperatureMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestTemperatureMonth" />
+  <component name="RunManager" selected="Application.DiamondPattern">
+    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DiamondPattern" />
       <module name="AssignmentLoops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,14 +116,14 @@
     <list>
       <item itemvalue="Application.Sum" />
       <item itemvalue="Application.Strings" />
-      <item itemvalue="Application.HighestTemperatureMonth" />
+      <item itemvalue="Application.DiamondPattern" />
       <item itemvalue="Application.ReversedString" />
       <item itemvalue="Application.WordSeparate" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HighestTemperatureMonth" />
+        <item itemvalue="Application.DiamondPattern" />
         <item itemvalue="Application.WordSeparate" />
         <item itemvalue="Application.ReversedString" />
         <item itemvalue="Application.Main" />
@@ -207,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714759139421</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="E6.5">
+      <option name="closed" value="true" />
+      <created>1714764133340</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714764133340</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,7 +232,8 @@
     <MESSAGE value="E6.9" />
     <MESSAGE value="E6.3 : a,b,c,d,e" />
     <MESSAGE value="E6.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="E6.4" />
+    <MESSAGE value="E6.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="E6.5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,6 +247,11 @@
           <url>file://$PROJECT_DIR$/src/InputString.java</url>
           <line>26</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DiamondPattern.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
