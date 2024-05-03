@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f3d300-add2-46ab-9e16-6d34d95dacc2" name="Changes" comment="E6.8">
-      <change afterPath="$PROJECT_DIR$/src/ReversedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HighestTemperatureMonth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +29,12 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.8" />
+        <entry key="$PROJECT_DIR$" value="E6.9" />
       </map>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/InputString.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -43,7 +47,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HighestTemperatureMonth.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ReversedString.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Sum.executor": "Run",
     "Application.Unnamed.executor": "Run",
@@ -61,7 +67,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReversedString">
+  <component name="RunManager" selected="Application.HighestTemperatureMonth">
+    <configuration name="HighestTemperatureMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestTemperatureMonth" />
+      <module name="AssignmentLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="AssignmentLoops" />
@@ -100,14 +113,16 @@
     <list>
       <item itemvalue="Application.Sum" />
       <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.HighestTemperatureMonth" />
       <item itemvalue="Application.ReversedString" />
       <item itemvalue="Application.WordSeparate" />
       <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReversedString" />
+        <item itemvalue="Application.HighestTemperatureMonth" />
         <item itemvalue="Application.WordSeparate" />
+        <item itemvalue="Application.ReversedString" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
