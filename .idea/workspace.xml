@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b4f3d300-add2-46ab-9e16-6d34d95dacc2" name="Changes" comment="E6.18">
+      <change afterPath="$PROJECT_DIR$/src/XInBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DiamondPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +29,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.11" />
+        <entry key="$PROJECT_DIR$" value="E6.18" />
       </map>
     </option>
   </component>
@@ -47,30 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.DiamondPattern.executor": "Run",
-    "Application.HighestTemperatureMonth.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ReversedString.executor": "Run",
-    "Application.Strings.executor": "Run",
-    "Application.Sum.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "Application.WordSeparate.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "F:/New folder/g photos/AssignmentLoops/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DiamondPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HighestTemperatureMonth.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversedString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WordSeparate.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/New folder/g photos/AssignmentLoops/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.DiamondPattern">
+}</component>
+  <component name="RunManager" selected="Application.XInBox">
     <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DiamondPattern" />
       <module name="AssignmentLoops" />
@@ -113,9 +113,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="XInBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="XInBox" />
+      <module name="AssignmentLoops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Sum" />
       <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.XInBox" />
       <item itemvalue="Application.DiamondPattern" />
       <item itemvalue="Application.ReversedString" />
       <item itemvalue="Application.WordSeparate" />
@@ -123,6 +131,7 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XInBox" />
         <item itemvalue="Application.DiamondPattern" />
         <item itemvalue="Application.WordSeparate" />
         <item itemvalue="Application.ReversedString" />
@@ -145,6 +154,7 @@
       <workItem from="1713708173615" duration="1790000" />
       <workItem from="1713717255533" duration="3199000" />
       <workItem from="1713765980459" duration="818000" />
+      <workItem from="1714837970520" duration="706000" />
     </task>
     <task id="LOCAL-00001" summary="E6.1">
       <option name="closed" value="true" />
@@ -226,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714768541717</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="E6.18">
+      <option name="closed" value="true" />
+      <created>1714770310522</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714770310522</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +289,11 @@
           <url>file://$PROJECT_DIR$/src/DiamondPattern.java</url>
           <line>9</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DiamondPattern.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
